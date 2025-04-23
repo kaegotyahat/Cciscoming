@@ -29,4 +29,4 @@ CC IS COMING
 </head>
 <body>
   <h1>CC Is Coming</h1>
-  <p>Stay tuned for something big.</p>
+  <p>CC IS COMING.</p>
